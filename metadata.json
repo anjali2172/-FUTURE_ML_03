@@ -1,0 +1,6 @@
+{
+  "name": "Resume Screening & Candidate Ranking System",
+  "description": "An automated candidate ranking and resume screening system optimized for Indian resumes, featuring text parsing, tf-idf cosine similarity matching, and visual skill gap analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
